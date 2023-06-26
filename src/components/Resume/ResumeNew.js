@@ -51,7 +51,7 @@ import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 // import pdf from "../../Assets/../Assets/Soumyajit_Behera-BIT_MESRA.pdf";
-import pdf from "../../Assets/../Assets/Chencheng_Yi_s_Resume3.5.pdf";
+import pdf from "../../Assets/../Assets/Chencheng_Yi_ng_Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
